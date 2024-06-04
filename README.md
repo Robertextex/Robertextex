@@ -1,5 +1,10 @@
 # 💫 About Me:
- I am QA engineer Currently Working at Freelancer Projects as Frontend Developer and QA engineer\<br>💡 I like to explore new technologies and develop software solutions and quick hacks.\<br>🎓 I am currently doing certification in Full Stack developer in USIP.\<br>🌱I'm on track for learning more about Web3, Software Architecture, Python.\<br>✍️ In my free time, I created pieces on 3d model hobbies and show movies.<br>✉️You can shoot me an email at robertgrimba@gmail.com! I'll try to respond as soon as I can.\<br>
+ I am QA engineer Currently Working at Freelancer Projects as Frontend Developer and QA engineer
+ 💡 I like to explore new technologies and develop software solutions and quick hacks.
+ 🎓 I am currently doing certification in Full Stack developer in USIP.
+ 🌱I'm on track for learning more about Web3, Software Architecture, Python.
+ ✍️ In my free time, I created pieces on 3d model hobbies and show movies.
+ ✉️You can shoot me an email at robertgrimba@gmail.com! I'll try to respond as soon as I can.
 
 
 ## 🌐 Socials:
